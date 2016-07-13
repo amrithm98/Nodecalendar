@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "homepage": "",
+  "authors": [
+    ""
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "latest",
+    "angular-material": "latest",
+    "angular-ui-router": "latest",
+    "material-calendar": "^0.2.14"
+  }
+}
